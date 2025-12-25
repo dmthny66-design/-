@@ -1,0 +1,7 @@
+{
+  "name": "Copy of لمسة المستقبل | Future Touch",
+  "description": "الموقع الرسمي لمؤسسة لمسة المستقبل للدهانات والديكورات الحديثة.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
